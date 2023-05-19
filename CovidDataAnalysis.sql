@@ -141,3 +141,5 @@ JOIN PortfolioProject..CovidVaccine$ vac
 WHERE dea.continent is not null
 
 SELECT * FROM PercentPopulationVaccinated
+
+SELECT DISTINCT * FROM PercentPopulationVaccinated
